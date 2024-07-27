@@ -2,7 +2,7 @@
 abelbaird](https://github.com/abelbaird/medium/blob/main/svg-gobbler.svg)](https://github.com/Pjp2064/Pjp2064/blob/ded4102f6abbe4e9f12504848f3acdb8c3f6505a/README.md)
 <h1 align='center'> Minecraft   服务器索引</h1>
 <p align='center'>
-
+服务器当前状态∶运行中
 </p>
 <h1 align='center'>以下是服务器地址及端口</h1>
 
