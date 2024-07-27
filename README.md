@@ -15,4 +15,4 @@
 <p>端口改变后该网址同步改变</p>
 <hr>
 <h1 align='center'>更新日志</h1>
-<p>2024-7-27<a href="https://xn--kbtz0ztjtvlp.com/">查看</a>.</P>
+<p>2024-7-27<a href="https://github.com/Pjp2064/update/blob/bfd50381050b17dc5dc5b76bc215ca99f9687dee/2024-7-27.md">查看</a>.</P>
