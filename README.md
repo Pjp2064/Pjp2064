@@ -6,13 +6,13 @@ abelbaird](https://github.com/abelbaird/medium/blob/main/svg-gobbler.svg)](https
 </p>
 <h1 align='center'>以下是服务器地址及端口</h1>
 
-<p align='center1'>1</p>
+<p align='center'>壹</p>
 
-<p align='center1'>地址∶l2.ttut.cc/</p>
+<p align='center1'>地址∶l2.ttut.cc</p>
 <p align='center1'>端口∶15503（端口稳定，但延迟较高）</p>
-<p align='center1'>2</p>
-<p align='center'>地址∶server.natapp.cc</p>
-<p align='center'>端口∶52331（端口易变，但延迟较低）</p>
+<p align='center'>贰</p>
+<p align='center1'>地址∶server.natapp.cc</p>
+<p align='center1'>端口∶52331（端口易变，但延迟较低）</p>
 <p>端口改变后该网址同步改变</p>
 <hr>
 <h1 align='center'>更新日志</h1>
