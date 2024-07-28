@@ -14,7 +14,7 @@
 <img src="https://github.com/Pjp2064/P/blob/839275f6b0b8ddf414c813e70511bef42bacfc33/IMG_20240728_111356.jpg" alt="some_text">
 <p align='center'>贰</p>
 <p align='center1'>地址∶server.natapp.cc</p>
-<p align='center1'>端口∶34679（端口易变，但延迟较低）</p>
+<p align='center1'>端口∶53163（端口易变，但延迟较低）</p>
 <img src="https://github.com/Pjp2064/P/blob/395f200aed96036543b2dbd4d963143ebb1d64b9/natapp.jpg" alt="some_text" >
 <img src="https://github.com/Pjp2064/P/blob/839275f6b0b8ddf414c813e70511bef42bacfc33/IMG_20240728_111305.jpg" alt="some_text">
 <p>端口改变后该网址同步改变</p>
