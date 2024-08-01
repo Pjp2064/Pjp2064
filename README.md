@@ -10,11 +10,9 @@
 
 <p align='center1'>地址∶l2.ttut.cc</p>
 <p align='center1'>端口∶15503（端口稳定，但延迟较高）</p>
-<img src="https://github.com/Pjp2064/P/blob/839275f6b0b8ddf414c813e70511bef42bacfc33/IMG_20240728_111356.jpg" alt="some_text">
 <p align='center'>贰</p>
 <p align='center1'>地址∶server.natappfree.cc</p>
 <p align='center1'>端口∶59930（端口易变，但延迟较低）</p>
-<img src="https://github.com/Pjp2064/P/blob/839275f6b0b8ddf414c813e70511bef42bacfc33/IMG_20240728_111305.jpg" alt="some_text">
 <p align="center">叁</p>
 <p>地址∶110.40.34.158</p>
 <p>端口∶15315（延迟最低）</p>
