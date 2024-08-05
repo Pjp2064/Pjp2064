@@ -12,10 +12,10 @@
 <p align='center1'>端口∶15503（端口稳定，但延迟较高）</p>
 <p align='center'>贰</p>
 <p align='center1'>地址∶server.natappfree.cc</p>
-<p align='center1'>端口∶40473（端口易变，但延迟较低）</p>
+<p align='center1'>端口∶48869（端口易变，但延迟较低）</p>
 <p align="center">叁</p>
 <p>地址∶110.40.34.158</p>
-<p>端口∶19112（延迟最低）</p>
+<p>端口∶12086（延迟最低）</p>
 
 <p>端口改变后该网址端口同步改变</p>
 <hr>
